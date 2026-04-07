@@ -1,0 +1,5 @@
+# HCI Hand Gesture Games
+__pycache__/
+*.pyc
+chromedriver_win32/
+*.pb
